@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+</head>
+
+<body>
+
+<!-- Header Section -->
+<header>
+    <h1>Cyrus Ronquillo</h1>
+    <p>BSIT Student - Web Systems and Technologies</p>
+</header>
+
+<!-- Navigation Menu -->
+<nav>
+    <a href="#about">About Me</a> |
+    <a href="#hobbies">My Hobbies</a> |
+    <a href="#favorites">Favorite Websites</a> |
+    <a href="#contact">Contact</a>
+</nav>
+
+<hr>
+
+<!-- About Me Section -->
+<section id="about">
+    <h2>About Me</h2>
+
+    <img src="RonquilloCyrus.jpg" alt="My Photo" width="200">
+
+    <p>
+        Hello! My name is Cyrus. I am currently studying Information Technology.
+        I enjoy learning about web development, technology, and creating websites.
+        This is my personal profile page for our Web Systems and Technologies laboratory activity.
+    </p>
+</section>
+
+<hr>
+
+<!-- Hobbies Section -->
+<section id="hobbies">
+    <h2>My Hobbies</h2>
+
+    <ul>
+        <li>Playing online games</li>
+        <li>Watching movies or series</li>
+        <li>Listening to music</li>
+        <li>Learning new tech skills</li>
+    </ul>
+</section>
+
+<hr>
+
+<!-- Favorite Websites -->
+<section id="favorites">
+    <h2>Favorite Websites</h2>
+
+    <ol>
+        <li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
+        <li><a href="https://www.google.com" target="_blank">Google</a></li>
+        <li><a href="https://github.com" target="_blank">GitHub</a></li>
+    </ol>
+</section>
+
+<hr>
+
+<!-- Contact Section -->
+<section id="contact">
+    <h2>Contact Me</h2>
+
+    <p>Email: caer916@email.com</p>
+    <p>Facebook: facebook.com/yourprofile</p>
+</section>
+
+<hr>
+
+<!-- Footer -->
+<footer>
+    <p>© 2026 Ronquillo Cyrus Allen | Web Systems and Technologies</p>
+</footer>
+
+</body>
+</html>
